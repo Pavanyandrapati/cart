@@ -1,7 +1,6 @@
 @Library('roboshop') _
 
-env.component="cart"
+env.component="user"
+env.schema_dir='schema'
 nodejs()
-
-
 
